@@ -1,6 +1,6 @@
-# Makeup Shop
+# Shop Ecommerce
 
-A modern e-commerce frontend for browsing and managing makeup products. Built with React and TypeScript, it includes a public storefront, user authentication, and an admin dashboard.
+A modern e-commerce frontend for browsing and managing products. Built with React and TypeScript, it includes a public storefront, user authentication, and an admin dashboard.
 
 ## Features
 
